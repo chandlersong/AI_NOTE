@@ -1,4 +1,6 @@
 # Table of contents
 
-* [Initial page](README.md)
-
+* [介绍](README.md)
+* [读书笔记](notes/README.md)
+    * [机器学习实战：基于Scikit-Learn和TensorFlow](notes/handson-ml/README.md)
+        * [第二章](notes/handson-ml/chapter2.md)
